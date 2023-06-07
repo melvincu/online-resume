@@ -179,22 +179,6 @@ education:
         + Thesis: What impact do Elon Musk’s tweets have on the stock prices of listed companies?
           Grade: X/20
 
-education:
-  show: true
-  order: 1
-  title: Education
-  description: |
-  
-  items:
-    - institution: Catholic University of Leuven
-      link: '#'
-      date: 2021 - 2023
-      major: Business Engineering with in risk and finance
-      degree: Master
-      description: |
-        + Thesis: What impact do Elon Musk’s tweets have on the stock prices of listed companies?
-          Grade: X/20
-
     - institution: Vrije Universiteit Brussel
       link:
       date: 2018 - 2021
