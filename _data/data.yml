@@ -149,19 +149,35 @@ project:
         For our masterthesis we analyzed the effect that Elon Musk's tweets have on the stock prices of listed companies.
         With this research we extended our knowledge of event study methodology and how to perform it.
 
-skills:
+#skills:
+#  show: true
+#  order: 3
+#  title: Software Skills
+#  description: |
+#  
+#  items:
+#    - name: Python
+#    - name: Pyspark
+#    - name: R
+#    - name: Excel 
+#    - name: Skill I
+#      level: 1
+
+education:
   show: true
-  order: 3
-  title: Software Skills
+  order: 1
+  title: Education
   description: |
   
   items:
-    - name: Python
-    - name: Pyspark
-    - name: R
-    - name: Excel 
-    - name: Skill I
-      level: 1
+    - institution: Catholic University of Leuven
+      link: '#'
+      date: 2021 - 2023
+      major: Business Engineering with in risk and finance
+      degree: Master
+      description: |
+        + Thesis: What impact do Elon Musk’s tweets have on the stock prices of listed companies?
+          Grade: X/20
 
 education:
   show: true
