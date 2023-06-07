@@ -99,7 +99,6 @@ experience:
       role: Stress-Testing Data Analytics
       location: Lisbon, Portugal
       description: |
-        Your key responsibilities and achievements in the company.
         + Execute data collection, data ingestion, data quality, data preparation, data cleaning and data analysis 
         + Perform data consolidation in a strong control and analyses framework 
         + Work closely with the data providers and with the clients
@@ -156,14 +155,7 @@ computer skills:
   order: 4
   title: Skills
   description: |
-    The skills section in a resume is a dedicated section where you can list out the various skills that you possess that are relevant to the job you are applying for. This section allows you to highlight your strengths and demonstrate your capabilities to potential employers.
-
-    The skills section can include both hard skills and soft skills. Hard skills are specific technical abilities or knowledge related to a particular job or industry, such as proficiency in programming languages or experience with certain software programs. Soft skills are more general personal traits and abilities, such as communication skills, leadership, problem-solving, or teamwork.
-
-    When crafting your skills section, it's important to tailor it to the specific job you are applying for, and only include skills that are relevant to the position. This can help catch the attention of the hiring manager and demonstrate that you have the qualifications necessary to succeed in the role.
-
-    There are multiple ways to present your skills here. One way is to show them in a rating format. Another way is to group them together. Alternatively, you can use markdown to format it in a way that you prefer.
-
+  
   items:
     - name: Python
     
@@ -209,23 +201,18 @@ education:
        
 certificate:
   show: true
-  order: 6
+  order: 11
   title: Certificates
   description: |
    
   items:
-    - name: Example Certificate One
-      issuer: by Example
-      date: 2020
+    - name: Certificate of Achievement Fresh Conncetion
+      issuer: Fresh Conncetion
+      date: 2021
       link: '#'
       description: |
-        It's my Example Certificate One by Example.
-    - name: Example Certificate Two
-      issuer: by Example
-      date: 2020
-      link:
-      description: |
-        It's my Example Certificate Two by Example.
+        I have earned a certificate from the Fresh Connection. The Fresh Connection is the world's leading Supply Chain Management business simulation game. There are over 25000 students playing the game worldwide.
+        My team and I managed to reach the final where 45 teams where competing against each other.
 
 publication:
   show: false
@@ -312,7 +299,7 @@ organization:
 
 language:
   show: true
-  order: 11
+  order: 6
   title: Languages
   description: |
 
