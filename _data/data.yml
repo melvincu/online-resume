@@ -78,7 +78,7 @@ contact:
 
 profile:
   show: false
-  order: 1
+  order: 300
   title: Profile
   description: |
     The profile section in a resume is a brief summary of the applicant's skills, qualifications, and experience. The purpose of this section is to provide a snapshot of the applicant's professional background and highlight their most relevant accomplishments and strengths. It may include information such as the applicant's career objectives, years of experience, areas of expertise, and key achievements.
@@ -87,7 +87,7 @@ profile:
 
 experience:
   show: true
-  order: 3
+  order: 2
   title: Experiences
   description: |
   items:
@@ -137,7 +137,7 @@ experience:
 
 project:
   show: false
-  order: 5
+  order: 301
   title: Projects
   description:
 
@@ -152,22 +152,17 @@ project:
 
 computer skills:
   show: true
-  order: 4
+  order: 3
   title: Skills
   description: |
   
   items:
     - name: Python
-    
     - name: Pyspark
-    
     - name: R
-    
-    - name: Excel
-    
+    - name: Excel 
     - name: Skill I
     
-      level: 3
 
 education:
   show: true
@@ -201,7 +196,7 @@ education:
        
 certificate:
   show: true
-  order: 11
+  order: 5
   title: Certificates
   description: |
    
@@ -299,7 +294,7 @@ organization:
 
 language:
   show: true
-  order: 6
+  order: 4
   title: Languages
   description: |
 
