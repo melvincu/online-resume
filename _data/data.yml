@@ -142,15 +142,14 @@ project:
   description:
 
   items:
-    - name: What impact do Elon Musk’s tweets have on the stock prices of listed companies?
-      grade: x / 20
+    - name: What impact do Elon Musk’s tweets have on the stock prices of listed companies?  x/20
       tags: Thesis
       date: 2023
       description: |
         For our masterthesis we analyzed the effect that Elon Musk's tweets have on the stock prices of listed companies.
         With this research we extended our knowledge of event study methodology and how to perform it.
 
-computer skills:
+skills:
   show: true
   order: 3
   title: Skills
