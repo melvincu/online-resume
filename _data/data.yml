@@ -152,7 +152,7 @@ project:
 skills:
   show: true
   order: 3
-  title: Skills
+  title: Software Skills
   description: |
   
   items:
@@ -161,7 +161,7 @@ skills:
     - name: R
     - name: Excel 
     - name: Skill I
-    
+      level: 1
 
 education:
   show: true
